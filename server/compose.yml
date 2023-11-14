@@ -1,0 +1,23 @@
+services:
+    orchestrator:
+        build: ./orchestrator
+        ports:
+            - "80:4000"
+        environment:
+            APP_SERVICE_URL: "http://app-service:4002"
+            USER_SERVICE_URL: "http://user-service:4001"
+            REDIS_PASSWORD: ${REDIS_PASSWORD}
+            REDIS_HOST: ${REDIS_HOST}
+    app-service:
+        build: ./services/apps
+        ports:
+            - "4002:4002"
+        environment:
+            NODE_ENV: production
+            DATABASE_URL: ${DB_URI}
+    user-service:
+        build: ./services/users
+        ports:
+            - "4001:4001"
+        environment:
+            MONGO_DB_URI: ${MONGO_DB_URI}

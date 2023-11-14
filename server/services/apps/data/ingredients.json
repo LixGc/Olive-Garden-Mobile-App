@@ -1,0 +1,78 @@
+[
+  {
+    "name": "300gr corn",
+    "MenuId": 1
+  },
+  {
+    "name": "900gr flour",
+    "MenuId": 1
+  },
+  {
+    "name": "2 tsb caramel",
+    "MenuId": 1
+  },
+  {
+    "name": "300gr pumpkin",
+    "MenuId": 2
+  },
+  {
+    "name": "200gr brazil nuts with lemon",
+    "MenuId": 2
+  },
+  {
+    "name": "100gr jelly powder",
+    "MenuId": 3
+  },
+  {
+    "name": "1/2 tsb curry powder",
+    "MenuId": 3
+  },
+  {
+    "name": "100gr hazelnut",
+    "MenuId": 3
+  },
+  {
+    "name": "300gr eggplant",
+    "MenuId": 4
+  },
+  {
+    "name": "100gr caraway seed",
+    "MenuId": 4
+  },
+  {
+    "name": "2tsb nettle",
+    "MenuId": 4
+  },
+  {
+    "name": "peppermint leafs",
+    "MenuId": 4
+  },
+  {
+    "name": "500gr bread flour",
+    "MenuId": 5
+  },
+  {
+    "name": "2tsb lemon water",
+    "MenuId": 5
+  },
+  {
+    "name": "100gr cardamom",
+    "MenuId": 5
+  },
+  {
+    "name": "200gr celery seed",
+    "MenuId": 5
+  },
+  {
+    "name": "100gr waterchestnuts",
+    "MenuId": 5
+  },
+  {
+    "name": "grapefruit juice",
+    "MenuId": 6
+  },
+  {
+    "name": "gin mixed and served over ice",
+    "MenuId": 6
+  }
+]

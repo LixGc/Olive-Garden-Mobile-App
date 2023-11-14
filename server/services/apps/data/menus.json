@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Caramelized corn pizza",
+    "description": "This caramelized corn (maize) pizza is altogether tough with a greasy texture. It indicates blackcurrant with horehound and has poppy seeds. It smells fresh with pummelo. It is official and governmental. You can really feel how soy free and how high fiber it is.",
+    "imgUrl": "https://i0.wp.com/www.kitchen-concoctions.com/wp-content/uploads/2017/08/Corn-Prosciutto-and-Caramelized-Onion-Pizza-photo-1.jpg?resize=680%2C450&ssl=1",
+    "price": 10,
+    "mongoUserId": "652868dc9ed491542458c441",
+    "CategoryId": 2
+  },
+  {
+    "name": "Whipped pumpkin bowl",
+    "description": "This whipped pumpkin bowl is entirely stringy with a burned texture. It reeks of brazil nuts with lemon balm and has a dash of bay. It smells pleasant with a lot of kiwifruit. It is rather neutral. You can really feel how GMP certified and how high in magnesium it is.",
+    "imgUrl": "https://www.flavormosaic.com/wp-content/uploads/2019/10/Pumpkin-Fluff-with-Cool-Whip-And-Marshmallows-3-334x500.jpg",
+    "price": 6,
+    "mongoUserId": "652868dc9ed491542458c441",
+    "CategoryId": 3
+  },
+  {
+    "name": "Braised hazelnuts pudding",
+    "description": "This braised hazelnuts / filberts pudding is entirely flaky with a flaky texture. It compares to kohlrabi with sweet bay and has curry powder. It smells gaseous with just the right amount of currants. It is salty sweet. You can really feel how premium and how high in magnesium it is.",
+    "imgUrl": "https://kjandcompany.co/wp-content/uploads/2021/01/Chocolate-Hazelnut-Pudding-3.jpg",
+    "price": 4,
+    "mongoUserId": "652d8727cc44ee77b75100c4",
+    "CategoryId": 3
+  },
+  {
+    "name": "Fermented brussel sprouts sandwich",
+    "description": "This fermented brussel sprouts sandwich is comparatively slimy with a smooth texture. It tastes strongly of eggplant with caraway seed and has an overwhelming amount of nettle. It smells spoiled with peppermint. It is fine and subtle. You can really feel how high in potassium and how no fillers it is.",
+    "imgUrl": "https://avipie.com/wp-content/uploads/2019/09/Brussell-Sprout-Sandwich-3.jpg",
+    "price": 6,
+    "mongoUserId": "652d8727cc44ee77b75100c4",
+    "CategoryId": 2
+  },
+  {
+    "name": "Broiled gooseberries bread",
+    "description": "This broiled gooseberries bread is a little crumbly with a crispy texture. It compares to lemon with cardamom and has celery seed. It smells foul with a dash of waterchestnuts. It is strange and artificial. You can really feel how high in probiotics and how unsweetened it is.",
+    "imgUrl": "https://mykitchen.co.za/wp-content/uploads/2017/10/Gooseberry-toasties.jpg",
+    "price": 7,
+    "mongoUserId": "652868dc9ed491542458c441",
+    "CategoryId": 3
+  },
+  {
+    "name": "Greyhound",
+    "description": "A greyhound is a cocktail consisting of grapefruit juice and gin mixed and served over ice. If the rim of the glass has been salted, the drink is instead called a salty dog.",
+    "imgUrl": "https://randomgenerate.io/_next/image?url=https%3A%2F%2Fstatic-abbreviations.nyc3.digitaloceanspaces.com%2Frandom-generate%2Frandom-cocktail-generator%2FGreyhound.jpeg&w=640&q=75",
+    "price": 6,
+    "mongoUserId": "652d8727cc44ee77b75100c4",
+    "CategoryId": 1
+  }
+]
